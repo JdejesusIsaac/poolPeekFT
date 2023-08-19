@@ -6,16 +6,15 @@
   justify-content: center;
   width: 100vw;
   padding: 0 24px;
+  background-color: #000;
 }
 
 .heading {
   font-weight: 700;
   font-size: 1rem;
-  color: transparent;
-  background: linear-gradient(90.35deg, #ba94d8 3.41%, #d62bbf 90.33%);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
   margin-bottom: 0px;
 }
 
@@ -23,34 +22,36 @@
   margin: 0px;
   font-size: 4rem;
   line-height: 4rem;
+  color: #fff;
 }
 
 .explain {
   font-size: 1rem;
-  color: #bbbbbc;
+  color: #fff;
   margin-top: 1rem;
 }
 
 .card {
-  border: 1px #323232 solid;
-  border-radius: 12px;
+  border: 2px solid #fff;
   padding: 24px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   margin-top: 5rem;
+  background-color: #000;
 }
 
 .card h3 {
   margin: 0px;
   font-size: 20px;
   font-weight: 600;
+  color: #fff;
 }
 
 .card p {
   margin: 0px;
   font-size: 14px;
-  opacity: 70%;
+  color: #fff;
   text-align: start;
 }
 
@@ -61,10 +62,13 @@
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
+  background-color: #000;
+  color: #fff;
+  border: 2px solid #fff;
 }
 
 .link {
-  color: #3385ff;
+  color: #fff;
 }
 
 .nft {

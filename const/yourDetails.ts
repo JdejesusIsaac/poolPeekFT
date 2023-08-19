@@ -2,7 +2,7 @@
 export const contractAddress = "0x436492DBc2E30E56FaC8F2297BD1964833c0687d";
 
 // Replace this with your domain name.
-export const domainName = "thirdweb-example.com";
+export const domainName = "poolpeek.eth";
 
 // Minimum number of tokens required to access
 export const minimumBalance = 1;
